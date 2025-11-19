@@ -1,36 +1,29 @@
-# 🎓 KUCCPS Course Advisor Chatbot (RAG)
+# KUCCPS Course Advisor Chatbot 🎓
 
-**Award-Winning Hackathon Project** | A Retrieval-Augmented Generation (RAG) powered AI chatbot designed to help Kenyan students make informed university course selection decisions.
+**🏆 1st Place Winner - Botathon at Mama Ngina University**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![RAG](https://img.shields.io/badge/Architecture-RAG-orange)
-![Hackathon](https://img.shields.io/badge/Hackathon-Winning%20Project-brightgreen)
+An AI-powered course advisory system using Retrieval-Augmented Generation (RAG) to help students navigate career paths and course selection.
 
-## 🏆 Overview
+## 🚀 Features
+- Intelligent Course Recommendations based on student interests
+- RAG Architecture for accurate information retrieval  
+- Natural Language Understanding for student queries
+- Streamlit Web Interface for easy access
 
-Led a winning team to develop an AI-powered chatbot that simplifies the university course selection process for students in Kenya. The chatbot uses advanced NLP techniques to provide personalized, relevant advice by retrieving information from a knowledge base of university courses and requirements.
+## 🏆 Hackathon Achievement
+Won 1st place at the Botathon hosted by Tech Innovators Network - THiNK, supported by KIEP-SKIES, JHUB Africa, The World Bank, and Ministry of Investments, Trade and Industry.
 
-## 🛠️ My Role & Contributions
+## 🛠️ Technology Stack
+- Python + Streamlit for web interface
+- RAG Architecture for intelligent search
+- Vector Similarity for course matching
 
-As the project lead, my key responsibilities included:
+## 👥 Team
+- **Ruth Ondiere** - Data Scientist & ML Engineer
+- Cherotich Faith
+- Mercy Okumu  
+- Vallarie Seroney
 
-*   **Architecture Design:** Designed the Retrieval-Augmented Generation (RAG) system architecture.
-*   **API Integration:** Implemented the integration with the OpenAI API for the generative component.
-*   **Vector Database Setup:** Built the embedding pipeline and configured the vector database for efficient information retrieval.
-*   **Team Coordination:** Managed project workflow and coordinated between team members to ensure timely delivery.
-
-## ⚙️ Technical Stack
-
-*   **Framework:** LangChain
-*   **LLM:** OpenAI GPT API
-*   **Vector Database:** ChromaDB / Pinecone
-*   **Language:** Python
-*   **NLP Libraries:** spaCy, NLTK
-
-## 🚀 How to Run
-
-*Installation and setup instructions will be added once the code is available.*
-
-## 📁 Project Structure
-
-*(This will be updated once the code is added)*
+## 🔗 Links
+- **Live Demo**: [Coming soon]
+- **Portfolio**: https://bonaondiere.github.io
