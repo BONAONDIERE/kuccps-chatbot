@@ -21,6 +21,9 @@ Won 1st place at the Botathon hosted by Tech Innovators Network - THiNK, support
 ## 👥 Team
 - **Ruth Ondiere** - Data Scientist & ML Engineer
 - Cherotich Faith
+- Naomi Bitutu
+- Dida Shukri
+- Dennis Ndegwa
 - Mercy Okumu  
 - Vallarie Seroney
 
