@@ -28,5 +28,5 @@ Won 1st place at the Botathon hosted by Tech Innovators Network - THiNK, support
 - Vallarie Seroney
 
 ## 🔗 Links
-- **Live Demo**: [Coming soon]
+- **Live Demo**: https://bonaondiere.github.io/kuccps-chatbot/demo.html
 - **Portfolio**: https://bonaondiere.github.io
